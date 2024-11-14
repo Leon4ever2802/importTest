@@ -8,6 +8,13 @@ public class App {
         System.out.println("Hello World!");
     }
     
+    
+    /**
+     * Diese Methode gibt etwas zurueck.
+     * 
+     * @param name
+     * @return Hello [name]
+     */
     public static String greet(String name) {
         return "Hello " + name;
     }
