@@ -8,7 +8,7 @@ public class App {
         System.out.println("Hello World!");
     }
     
-    public String greet(String name) {
+    public static String greet(String name) {
         return "Hello " + name;
     }
 }
