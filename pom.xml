@@ -34,7 +34,7 @@
 		<repository>
 			<id>github</id>
 			<name>Github Leon4ever2802 Apache Maven Packages</name>
-			<url>https://maven.pkg.github/Leon4ever2802/importTest</url>
+			<url>https://maven.pkg.github.com/Leon4ever2802/importTest</url>
 		</repository>
 	</distributionManagement>
 	
